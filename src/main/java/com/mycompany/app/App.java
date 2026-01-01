@@ -3,6 +3,11 @@ package com.mycompany.app;
 /**
  * Hello world!
  */
+
+/**
+ * Hello world!
+ */
+
 public class App
 {
 
@@ -15,7 +20,13 @@ public class App
     }
 
     private final String getMessage() {
+        
         return message;
     }
 
+
+
+
+
+    
 }
